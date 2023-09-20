@@ -7,7 +7,7 @@ Welcome to the Electrophysiology Learning Assignment! This assignment is your ga
 
 To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're new to the field or looking to deepen your knowledge, this assignment will guide you through the essential concepts step by step.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Perceptron?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Electrophysiology?quickstart=1)
 
 ## What Is Electrophysiology?
 
