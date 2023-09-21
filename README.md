@@ -1,5 +1,5 @@
 # WetAI: Collaborative Neurobiology
-## Assignment #3: Electrophysiology
+## Assignment #2: Electrophysiology
 
 Welcome to the Electrophysiology Learning Assignment! This assignment is your gateway to understanding the fascinating world of electrophysiology, a vital field in biology and neuroscience that explores the electrical activity of cells and tissues. Whether you're a budding scientist, a student in the life sciences, or simply curious about how our bodies and brains function, this assignment will provide you with a comprehensive introduction to electrophysiology.
 
