@@ -1,4 +1,8 @@
 # WetAI: Collaborative Neurobiology
+
+[![ssec](https://img.shields.io/badge/SSEC-Project-purple?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAOCAQAAABedl5ZAAAACXBIWXMAAAHKAAABygHMtnUxAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAMNJREFUGBltwcEqwwEcAOAfc1F2sNsOTqSlNUopSv5jW1YzHHYY/6YtLa1Jy4mbl3Bz8QIeyKM4fMaUxr4vZnEpjWnmLMSYCysxTcddhF25+EvJia5hhCudULAePyRalvUteXIfBgYxJufRuaKuprKsbDjVUrUj40FNQ11PTzEmrCmrevPhRcVQai8m1PRVvOPZgX2JttWYsGhD3atbHWcyUqX4oqDtJkJiJHUYv+R1JbaNHJmP/+Q1HLu2GbNoSm3Ft0+Y1YMdPSTSwQAAAABJRU5ErkJggg==&style=plastic)](https://escience.washington.edu/wetai/)
+[![BSD License](https://badgen.net/badge/license/BSD-3-Clause/blue)](LICENSE)
+
 ## Assignment #2: Electrophysiology
 
 Welcome to the Electrophysiology Learning Assignment! This assignment is your gateway to understanding the fascinating world of electrophysiology, a vital field in biology and neuroscience that explores the electrical activity of cells and tissues. Whether you're a budding scientist, a student in the life sciences, or simply curious about how our bodies and brains function, this assignment will provide you with a comprehensive introduction to electrophysiology.
