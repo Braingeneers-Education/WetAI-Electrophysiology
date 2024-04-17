@@ -10,9 +10,8 @@ Welcome to the Electrophysiology Learning Assignment! This assignment is your ga
 
 ## Getting Started
 
-To begin or resume your assignment, simply click the "Open in GitHub Codespaces" button below. Whether you're new to the field or looking to deepen your knowledge, this assignment will guide you through the essential concepts step by step.
+To begin or resume your assignment, simply click the "Code" button in the top right of your repository area. From there press the + button in the codespaces tab, setting up your codespace may take a few minutes. If you leave after setting the codespace up, you can resume it at any time through the same code menu. Once the codespace is set up make the changes you need, answer the questions and then you can submit in the Source Control tab, by staging your changes with the + button and then using the big green "commit" button with a commit message and then hitting the "Sync Changes" button that pops up afterwards. Feel free to submit as many times as you wish.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Braingeneers-Education/WetAI-Electrophysiology?quickstart=1)
 
 ## What Is Electrophysiology?
 
