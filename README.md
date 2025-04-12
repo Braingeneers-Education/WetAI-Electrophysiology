@@ -10,7 +10,7 @@ Welcome to the Electrophysiology Learning Assignment! This assignment is your ga
 
 ## Getting Started
 
-To begin or resume your assignment, simply copy the repository link and pull it to your local computer (we recommend using virtual studio to edit the files) or click the "Open in GitHub Codespaces" button below. Answer the questions and then you can submit by pushing using git. In codespaces or visual studio you can do this by staging your changes with the + button and then using the big green "commit" button with a commit message and then hitting the "Sync Changes" button that pops up afterwards. Feel free to submit as many times as you wish.
+To begin or resume your assignment, click the "Open in GitHub Codespaces" button below. Answer the questions and then you can submit by pushing using git. In codespaces you can do this by staging your changes with the + button and then using the big green "commit" button with a commit message and then hitting the "Sync Changes" button that pops up afterwards. Feel free to submit as many times as you wish.
 
 
 ## What Is Electrophysiology?
@@ -28,7 +28,7 @@ Throughout this assignment, you will:
 
 ## How to Use This Repository
 
-This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, interactive simulations, and quizzes. To begin, either pull the repository to your local computer or click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
+This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, interactive simulations, and quizzes. To begin click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
 
 We're excited to have you on this journey to unravel the mysteries of electrophysiology and gain insights into the electrical activities of living organisms!
 
