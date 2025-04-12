@@ -28,7 +28,7 @@ Throughout this assignment, you will:
 
 ## How to Use This Repository
 
-This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, interactive simulations, and quizzes. To begin, either clone the repository to your local computer or click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
+This repository contains all the resources you need to complete the assignment successfully. You'll find detailed instructions, interactive simulations, and quizzes. To begin, either pull the repository to your local computer or click the "Open in GitHub Codespaces" button above, and you'll be directed to the assignment platform.
 
 We're excited to have you on this journey to unravel the mysteries of electrophysiology and gain insights into the electrical activities of living organisms!
 
